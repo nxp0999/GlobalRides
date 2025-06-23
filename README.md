@@ -1,5 +1,3 @@
-This project involves designing a comprehensive relational database system for **GlobalRides**, a multi-service platform that combines ride-sharing and food delivery services (similar to Uber/Uber Eats).
-
 ## Core Challenge
 The main complexity lies in managing **overlapping user roles** - where a single person can simultaneously be a Rider, Driver, Customer, and Restaurant Owner - along with intricate business relationships across multiple service domains.
 
